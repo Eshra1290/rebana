@@ -1,0 +1,1 @@
+This is the official library system for the SIB Paguokon Rebana Dance Library. This platform provides easy access to dance learning materials, instructional videos, music, documents, and other resources while helping administrators manage the digital library efficiently.
