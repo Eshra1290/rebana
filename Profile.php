@@ -1,5 +1,5 @@
 <?php
-//include "config.php";
+include "config.php";
 
 if($_SESSION['role'] == "admin" || $_SESSION['role'] == "dancer"){
 } else {

@@ -1,6 +1,6 @@
 <!-- PraiseSongs.php -->
 <?php
-//include "config.php";
+include "config.php";
 
 if(!isset($_SESSION['user_id']) || !isset($_SESSION['user']) || !isset($_SESSION['session_token'])){
     header("Location: Login.php");
